@@ -18,7 +18,8 @@ Module 2 - CRUD / Search / View / Update / Delete
 
 Module 3 - System Logs
 
-![1 Register](https://user-images.githubusercontent.com/84279461/180195405-f42f465e-6ab9-45cf-ae87-0cbe0624577d.png)
+![6 Quiz - Copy](https://user-images.githubusercontent.com/84279461/180397923-3a454b6b-4bd9-479f-9061-ec1ffe2b6383.png)
+
 ![2 Login](https://user-images.githubusercontent.com/84279461/180195434-21683280-4691-437e-9e9a-bdf29712d0ac.png)
 ![3 Verification](https://user-images.githubusercontent.com/84279461/180195417-375b1c0e-34e2-4e97-8444-8f4f9edabe57.png)
 ![4 Home](https://user-images.githubusercontent.com/84279461/180195432-1d6edbaa-ef23-429e-bf44-90e704f1efd4.png)
