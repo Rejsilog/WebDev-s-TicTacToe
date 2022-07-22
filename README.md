@@ -13,7 +13,9 @@ This app has an email verification when you login.
 
 Three modules are included. 
 Module 1 - Registration / Login / Logout
+
 Module 2 - CRUD / Search / View / Update / Delete
+
 Module 3 - System Logs
 
 ![1 Register](https://user-images.githubusercontent.com/84279461/180195405-f42f465e-6ab9-45cf-ae87-0cbe0624577d.png)
