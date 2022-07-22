@@ -11,7 +11,7 @@ app are related to web development and will help the player to test their knowle
 of a quiz. The player can login / register and see other accounts in this application.
 This app has an email verification when you login.
 
-Three modules are included. 
+Three modules are included.
 Module 1 - Registration / Login / Logout
 
 Module 2 - CRUD / Search / View / Update / Delete
